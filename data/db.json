@@ -60,6 +60,28 @@
       "method": "something goes here",
       "cookingTime": "45 minutes",
       "id": "1W1o0Ta"
+    },
+    {
+      "title": "small chops",
+      "ingredients": [
+        "puff puff",
+        "chicken",
+        "spring roll"
+      ],
+      "method": "blah blah",
+      "cookingTime": "34 min",
+      "id": "SkirIHh"
+    },
+    {
+      "title": "Chikpea curry",
+      "ingredients": [
+        "chik",
+        "peo",
+        "muyshroolms"
+      ],
+      "method": "asdf adsf adsf",
+      "cookingTime": "32 min",
+      "id": "6ClWE_a"
     }
   ]
 }
